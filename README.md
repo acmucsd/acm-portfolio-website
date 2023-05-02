@@ -1,6 +1,8 @@
 # ACM Portfolio Website Workshop
 
-This is the main repository for ACM @ UCSD's Portfolio Website workshop in Spring 2023.
+This is the navbar exercise for the workshop. The HTML and skeleton CSS are given to you, try to match the following image!
+
+![image](acm_navbar.png)
 
 ## Slides: [acmurl.com/webport-slides](https://acmurl.com/webport-slides)
 
