@@ -1,8 +1,6 @@
 # ACM Portfolio Website Workshop
 
-This is the navbar exercise for the workshop. The HTML and skeleton CSS are given to you, try to match the following image!
-
-![image](acm_navbar.png)
+This is the portfolio website template for the workshop.
 
 ## Slides: [acmurl.com/webport-slides](https://acmurl.com/webport-slides)
 
